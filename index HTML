@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farha Kousar - Student Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Farha Kousar</h1>
+        <p>Passionate AIML Pre-Final Student</p>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a third-year B.E. student specializing in Artificial Intelligence and Machine Learning at KNS Institute of Technology, Bangalore, Karnataka.</p>
+            <!-- Add graphical elements and GIFs here -->
+        </section>
+
+        <section id="roles">
+            <h2>My Roles</h2>
+            <div class="roles-grid">
+                <div class="role-card">
+                    <img src="student-icon.png" alt="Student Icon">
+                    <p>I'm a Student</p>
+                </div>
+                <div class="role-card">
+                    <img src="data-analysis-icon.png" alt="Data Analysis Icon">
+                    <p>I'm into Data Analysis</p>
+                </div>
+                <!-- Add more role cards as needed -->
+            </div>
+        </section>
+
+        <section id="buttons">
+            <h2>Connect With Me</h2>
+            <div class="buttons-grid">
+                <a href="mailto:farhakousar576@gmail.com" class="button">Email</a>
+                <a href="https://github.com/Farhakousar16" class="button">GitHub</a>
+                <!-- Add more clickable buttons -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Farha Kousar 2024. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
